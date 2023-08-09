@@ -1,3 +1,3 @@
 # Testimonial Grid Section
 
-### Simple Testimonial Grid Section, built with HTML and CS
+### Simple Testimonial Grid Section, built with HTML and CSS
